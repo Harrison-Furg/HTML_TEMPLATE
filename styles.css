@@ -8,21 +8,3 @@ html, body {
     display: flex;
     flex-direction: column;
 }
-
-#header {
-    flex: .2;
-    background-color: #333;
-    color: white;
-    padding: 10px;
-    display: flex;
-    flex-direction: row;
-}
-
-#logo {
-    flex: .3;
-    font-size: 80px;
-}
-
-#main {
-    flex: 1;
-}
